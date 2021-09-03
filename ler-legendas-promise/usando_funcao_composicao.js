@@ -1,5 +1,5 @@
 const path = require('path')
-const fn = require('./ler-legendas-promise/funcoes')
+const fn = require('./funcoes')
 
 const caminho = path.join(__dirname, '..', 'legendas')
 
